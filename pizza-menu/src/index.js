@@ -57,6 +57,8 @@ function App() {
   );
 }
 
+//This is the Header component
+
 function Header() {
   return (
     <header className="header">
